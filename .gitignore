@@ -37,6 +37,9 @@ logs/
 .sonar/
 .scannerwork/
 
+# SonarScanner (herramienta externa, no debe estar en el repositorio)
+sonar-scanner-*/
+
 # Archivos de JUnit (si se descargan manualmente)
 lib/junit-*.jar
 lib/hamcrest-*.jar
