@@ -38,7 +38,7 @@ sonar-scanner -Dsonar.login=TU_TOKEN_AQUI
 ## Opción 2: SonarQube Local
 
 ### Requisitos:
-- Java 11 o superior
+- Java 21 (LTS) o superior
 - Mínimo 2GB RAM
 - PostgreSQL (opcional, puede usar H2 embebida)
 

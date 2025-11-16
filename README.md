@@ -123,7 +123,7 @@ crud/
 
 ## 🚀 Requisitos del Sistema
 
-- **Java**: JDK 11 o superior
+- **Java**: JDK 21 (LTS) o superior
 - **Sistema Operativo**: Windows, Linux o macOS
 
 ## 📦 Instalación y Configuración

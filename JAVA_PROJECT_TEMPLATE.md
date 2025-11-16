@@ -553,7 +553,7 @@ mkdir -p src/{model,repository,service,validator,exception,util,ui} data docs te
 [Árbol de carpetas]
 
 ## Requisitos
-- Java 11 o superior
+- Java 21 (LTS) o superior
 - [Otras dependencias]
 
 ## Instalación
