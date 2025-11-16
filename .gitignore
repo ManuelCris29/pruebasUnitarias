@@ -1,0 +1,56 @@
+# Archivos compilados
+*.class
+out/
+bin/
+target/
+build/
+
+# Archivos de datos
+data/*.csv
+data/*.json
+data/*.txt
+!data/.gitkeep
+
+# Archivos del IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Archivos de SonarQube
+.sonar/
+.scannerwork/
+
+# Archivos de JUnit (si se descargan manualmente)
+lib/junit-*.jar
+lib/hamcrest-*.jar
+
+# Archivos de configuración local
+config/local.properties
+.env
+
+# Archivos con tokens y credenciales (por seguridad)
+*credentials*
+*token*
+*.key
+*.pem
+
+# Archivos de backup
+*.bak
+*.backup
