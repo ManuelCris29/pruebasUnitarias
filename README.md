@@ -272,26 +272,16 @@ Las pruebas unitarias cubren:
 
 ## 👨‍💻 Autor
 
-**Manuel P.**  
-Estudiante de Ingeniería de Sistemas  
-ITM - Instituto Tecnológico Metropolitano
+**Manuel Cristobal Morneo Lizcano.**  
 
 ## 📧 Contacto
 
-Para consultas o colaboración, contactar al docente:  
-**jonathansanchez2948@correo.itm.edu.co**
+Para consultas o colaboración 
+**manuel199729@gmail.com**
 
-## 📄 Licencia
 
-Este proyecto es parte de una actividad académica del ITM.
 
-## 🙏 Agradecimientos
 
-- Profesor Jonathan Sánchez por la guía en principios SOLID
-- Comunidad Java por las mejores prácticas
-- SonarQube por las herramientas de análisis de calidad
-
----
 
 **Versión**: 1.0  
 **Última actualización**: Noviembre 2025
