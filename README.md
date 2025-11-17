@@ -203,6 +203,13 @@ El análisis de SonarQube verificará:
 - ✅ Vulnerabilidades de seguridad
 - ✅ Bugs potenciales
 
+**Resultados:**
+- Quality Gate: ✅ PASSED
+- Líneas de código: 1,245
+- Security: 0 bugs
+- Reliability: 0 bugs
+- Maintainability: 119 code smells
+
 ## 📝 Funcionalidades Implementadas
 
 ### Operaciones CRUD
@@ -266,9 +273,11 @@ Las pruebas unitarias cubren:
 - Validaciones de Moto
 - Validaciones de Camión
 
-## 📚 Documentación Adicional
+## 📤 Repositorio en GitHub
 
-- Ver `JAVA_PROJECT_TEMPLATE.md` para guía completa de arquitectura y principios SOLID
+**URL:** https://github.com/ManuelCris29/pruebasUnitarias
+
+El proyecto está disponible en GitHub con toda la documentación y código fuente.
 
 ## 👨‍💻 Autor
 
@@ -282,6 +291,22 @@ Para consultas o colaboración
 
 
 
+
+## 📚 Recursos y Enlaces
+
+- **Repositorio GitHub:** https://github.com/ManuelCris29/pruebasUnitarias
+- **SonarCloud:** https://sonarcloud.io/project/overview?id=manuelcris29_crud
+- **JUnit 5:** https://junit.org/junit5/
+- **SonarQube:** https://www.sonarqube.org/
+
+## ✅ Checklist de Requisitos
+
+- [x] ✅ CRUD completo implementado
+- [x] ✅ Pruebas unitarias (40+ pruebas)
+- [x] ✅ SonarQube configurado y ejecutado
+- [x] ✅ Quality Gate: PASSED
+- [x] ✅ Proyecto en GitHub
+- [x] ✅ Documentación completa
 
 **Versión**: 1.0  
 **Última actualización**: Noviembre 2025
